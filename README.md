@@ -1,2 +1,5 @@
 # project
-An EMR Application - for my BSc. Project
+An Electronic Medical Records System - for my BSc. Project.
+
+
+
